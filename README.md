@@ -1,2 +1,2 @@
 # Python
-Trying😬to learn👨‍💻Python🐍
+Well, this is just my Python playground 🥸
